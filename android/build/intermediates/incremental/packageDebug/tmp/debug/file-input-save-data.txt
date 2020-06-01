@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Sat May 30 21:58:33 BRT 2020
+7.path=lib/x86_64/libgdx.so
+2.base=D\:\\SnakeGame\\android\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.set=ASSET
+0.path=lib/armeabi/libgdx.so
+2.baseType=DIRECTORY
+3.base=D\:\\SnakeGame\\android\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=lib/arm64-v8a/libgdx.so
+4.base=D\:\\SnakeGame\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=lib/x86/libgdx.so
+5.base=D\:\\SnakeGame\\android\\build\\intermediates\\merged_assets\\debug\\out
+4.set=DEX
+3.path=lib/armeabi-v7a/libgdx.so
+6.base=D\:\\SnakeGame\\android\\build\\intermediates\\merged_assets\\debug\\out
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+7.base=D\:\\SnakeGame\\android\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=fundo0.png
+0.base=D\:\\SnakeGame\\android\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=fundo1.png
+1.base=D\:\\SnakeGame\\android\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
